@@ -5,13 +5,13 @@
       <nav>
         <a href="#work">WORK</a> / 
         <a href="#research">Research</a> /
-        <a href="#teaching">Teaching</a> 
+        <a href="#teaching">Teaching</a> /
+        <a href="#contacts">Contacts</a>
       </nav>
     </header>
     <div class="main">
       <slot />
     </div>
-    
 </div>
 
 <style>
@@ -21,23 +21,23 @@
     font-family: 'Lora', serif;
     
     margin: 0px;
-    padding: 25px;
+    padding: 2em;
   }
   .site {
-    margin: 40px auto;
+    margin: 1em auto;
 		max-width: 820px;
   }
 
   h1 {
     font-family: 'Poppins', sans-serif;
-    font-size: 26px;
+    font-size: 1.7em;
     letter-spacing: 0.03em;
     /*color: #624d75*/
 
   }
 
   header {
-    margin-bottom: 100px;
+    margin-bottom: 4em;
     display: flex;
     align-items: center;
   }
@@ -64,4 +64,14 @@
     letter-spacing: 0.025em;
   }
   
+@media only screen and (max-width: 600px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav{
+    margin-left: 0px;
+  }
+}
 </style>

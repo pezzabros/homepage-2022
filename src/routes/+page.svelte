@@ -1,11 +1,21 @@
+<script>
+  import { base } from '$app/paths';
+</script>
+
 <section id="intro">
 	Hey there, I am Daniele.
   <br><br>
-  For more than 10 years I've been helping companies and organizations shaping innovative ideas and data challanges into digital solutions that can clarify complexity, improve decision making or simply make somobody's life just a little bit better.
+	For more than a decade I've been helping companies and organizations turn ideas into innovative digital solutions and developed interactive applications that can clarify complexity, improve decision making or simply make user interaction with data just a little bit better.	
+	<br><br>
+	I think of myself as a <a href="https://towardsdatascience.com/the-mindset-for-innovation-with-data-science-fc51605a4867">"generalized specialist"</a>, combining the skills of a software engineer with the mindset of a designer and a researcher.
   <br><br>
 
-  I like to consider myself a <a href="https://towardsdatascience.com/the-mindset-for-innovation-with-data-science-fc51605a4867">"generalized specialist"</a>, combining the skills of a software engineer with the mindset of a designer and a researcher.
-  <br><br>
+	<figure>
+		<img src="{base}/img/daniele_intro.jpeg" alt="Daniele Pezzatini presenting" />
+		<figcaption>
+			Presenting during the European Hub for Civic Engagement workshop in Tallinn (©Marek Metslaid)
+		</figcaption>
+	</figure>
 
   <!--<div class="contacts">
     <a href="#"><div class="icon mail"></div></a>
@@ -19,49 +29,47 @@
 <section id="work">
 
   <div class="section-title">What do i do</div>
+	Currently I lead the development team at <a href="www.bestiario.org">Bestiario</a>, where we create data-driven innovation projects for companies and organizations.
+	<br/><br/>
+	Whether devising a final product or a proof-of-concept, I oversee and contribute to the entire creative process, from the initial research to the design and implementation of each project.
+	<br/><br/>
+	In the past few years, I:
+	<ul>
+		<li>Assisted Banco Santander in the creation of a new way to communicate with data. As part of this process, we developed the Santander Annual Review 2021, a digital storytelling project with a strong focus on data visualization. This project was awarded "Best online annual report" at the <a href="https://www.digitalimpactawards.com/europe/past-winners/2022/">Digital Impact Awards</a>.</li>
+		
+		<li>Lead the creation of open data portals for international institutions such as United Nations University, OECD and Municipality of Barcelona. These portals enable users from across the world to access and visualize crucial social and economic indicators for a wide variety of applications.</li>
 
-	I am currently collaborating with Bestiario on data-driven innovation projects for companies and organizations,
-	such as United Nations University, Telefonica I+D, Satellogic and Seat. 
+		<li>Defined and prototyped innovative software for the digital design of apparel and footwear on account of a top global fashion brand.</li>
+
+	</ul>
+	<br />
+
+	I have a strong interest in projects that use technology for social good. During my career I was involved in inspiring initiatives such as <a href="https://www.data4chan.ge/">Data4Change</a> and European Hub for Civic Engagement. Among other projects, I contributed to the creation of <a href="https://www.data4chan.ge/our-work/al-bedaya">"Al Bedaya"</a>, a digital toolkit that supports orphan children in Jordan facing social stigma and discrimination.
+
+	<br/><br />
+
+	In the context of my academic research I have continuously strived to maintain my connections to the education sector. I have taught in MA programs offered by the University of Florence and Università IUAV of Venice and gave lectures for various institutions.
 	<br /><br />
-	He has also taught in MA programs offered by the University of Florence and Università IUAV of Venice.
-	<br /><br />
-
-	He has a strong interest in projects that use technology for social good. He has participated,
-	among others, in initiatives such as Data4Change and European Hub for Civic Engagement.
-
-	<br /><br />
-
-	<figure>
-		<img src="img/daniele_intro.jpeg" alt="Daniele Pezzatini presenting" />
-		<figcaption>
-			Presenting during the European Hub for Civic Engagement workshop in Tallinn (©Marek Metslaid)
-		</figcaption>
-	</figure>
 </section>
 
 <section id="research">
 	<div class="section-title">Research</div>
-
-  I spent several formative years working as a
-	researcher at the <a href="http://www.micc.unifi.it/">Media Integration and Communication Center (MICC)</a>, in Florence first and at the <a href="https://www.upf.edu/web/gti">Interactive Technologies Group</a> in Universitat
-	Pompeu Fabra in Barcelona, where I was involved in several R&D projects experimenting innovative human-computer
-	interaction and multimedia analysis techniques in the field of cultural heritage, medicine, and smart
-	cities. 
+	I spent several formative years working as a researcher at the <a href="http://www.micc.unifi.it/">Media Integration and Communication Center (MICC)</a>at the University of Florence and I subsequently transferred to the <a href="https://www.upf.edu/web/gti">Interactive Technologies Group</a> at the Universitat Pompeu Fabra in Barcelona.
+	During this time I was involved in several R&D projects experimenting with innovative human-computer interaction and multimedia analysis techniques in the field of cultural heritage, medicine, and smart cities.
   <br><br>
   Here are some of the research challanges I took on:
 
   <ul>
-		<li>How can we use Natural Interaction and Virtualy Reality (VR) to improve training in emergency medicine?</li>
-    <li>Can we use computer vision or other location sensors to enrich visitors experience in a museum?</li>
-    <li>Can social network analysis help us discover the underlying "vibes" of a city?</li>
-    <li>Would a crowdsource approach help to improve video recommendation algorithims?</li>
+		<li>How can Natural Interaction and Virtual Reality (VR) be used to improve training in emergency medicine?</li>
+    <li>Can the installation of computer vision or other location sensors be applied to enrich visitors’ experience in a museum?</li>
+    <li>Is there a way for social network analysis to help us discover the underlying "vibes" of a city?</li>
+    <li>Would a crowdsource approach help to improve video recommendation algorithms?</li>
 
   </ul>
   
-  The work I have done with my teams has been published and presented in leading international conferences organized by ACM and IEEE, academic journals
-	and an <a href="https://link.springer.com/book/10.1007/978-3-319-61036-8">edited book</a> published by Springer.
+  The work I have done with the research teams in Florence and in Barcelona has been published and presented in leading international conferences organized by ACM and IEEE, academic journals and an <a href="https://link.springer.com/book/10.1007/978-3-319-61036-8">edited book</a> published by Springer.
   <br><br> 
-  A full list of publication can be found on my <a href="https://scholar.google.it/citations?user=rt1N1i4AAAAJ&hl=en">Google Scholar profile</a>.
+  A full list of my publications can be found on my <a href="https://scholar.google.it/citations?user=rt1N1i4AAAAJ&hl=en">Google Scholar profile</a>.
 </section>
 
 
@@ -99,18 +107,25 @@
 	</ul>
 </section>
 
+<section id="contacts">
+	<div class="section-title">Contacts</div>
+	<a href="https://www.linkedin.com/in/pezzatini/">LinkedIn</a> / 
+	<a href="https://twitter.com/pezzabros">Twitter</a> / 
+	<a href="mailto:d.pezzatini@gmail.com">Mail</a>
+</section>
+
 <style>
 	section {
 		text-align: justify;
-		margin-bottom: 50px;
+		margin-bottom: 3em;
 	}
 
 	.section-title {
 		font-family: 'Poppins';
 		font-weight: 400;
-		font-size: 20px;
+		font-size: 1.2em;
 		text-transform: uppercase;
-		margin-bottom: 15px;
+		margin-bottom: 1em;
 	}
 
 	ul li {
@@ -145,18 +160,5 @@
     background-repeat: no-repeat;
     background-position: center center;
     margin-right: 20px;
-  }
-
-  .icon.mail {
-    background-image: url('icons/mail.png')
-  }
-  .icon.twitter {
-    background-image: url('icons/twitter.png')
-  }
-  .icon.linkedin {
-    background-image: url('icons/linkedin.png')
-  }
-  .icon.github {
-    background-image: url('icons/github.png')
   }
 </style>
