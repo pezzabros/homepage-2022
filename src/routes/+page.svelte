@@ -29,7 +29,7 @@
 <section id="work">
 
   <div class="section-title">What do i do</div>
-	Currently I lead the development team at <a href="www.bestiario.org">Bestiario</a>, where we create data-driven innovation projects for companies and organizations.
+	Currently I lead the development team at <a href="https://www.bestiario.org">Bestiario</a>, where we create data-driven innovation projects for companies and organizations.
 	<br/><br/>
 	Whether devising a final product or a proof-of-concept, I oversee and contribute to the entire creative process, from the initial research to the design and implementation of each project.
 	<br/><br/>
