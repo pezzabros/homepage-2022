@@ -107,8 +107,8 @@
 	</ul>
 </section>
 
-<section id="contacts">
-	<div class="section-title">Contacts</div>
+<section id="contact">
+	<div class="section-title">Contact</div>
 	<a href="https://www.linkedin.com/in/pezzatini/">LinkedIn</a> / 
 	<a href="https://twitter.com/pezzabros">Twitter</a> / 
 	<a href="mailto:d.pezzatini@gmail.com">Mail</a>

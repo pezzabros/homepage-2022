@@ -6,7 +6,7 @@
         <a href="#work">WORK</a> / 
         <a href="#research">Research</a> /
         <a href="#teaching">Teaching</a> /
-        <a href="#contacts">Contacts</a>
+        <a href="#contact">Contact</a>
       </nav>
     </header>
     <div class="main">
