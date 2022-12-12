@@ -29,13 +29,13 @@
 <section id="work">
 
   <div class="section-title">What do i do</div>
-	Currently I lead the development team at <a href="https://www.bestiario.org">Bestiario</a>, where we create data-driven innovation projects for companies and organizations.
+	Currently I lead the development team at <a href="https://www.bestiario.org" target="_blank">Bestiario</a>, where we create data-driven innovation projects for companies and organizations.
 	<br/><br/>
 	Whether devising a final product or a proof-of-concept, I oversee and contribute to the entire creative process, from the initial research to the design and implementation of each project.
 	<br/><br/>
 	In the past few years, I:
 	<ul>
-		<li>Assisted Banco Santander in the creation of a new way to communicate with data. As part of this process, we developed the Santander Annual Review 2021, a digital storytelling project with a strong focus on data visualization. This project was awarded "Best online annual report" at the <a href="https://www.digitalimpactawards.com/europe/past-winners/2022/">Digital Impact Awards</a>.</li>
+		<li>Assisted Banco Santander in the creation of a new way to communicate with data. As part of this process, we developed the Santander Annual Review 2021, a digital storytelling project with a strong focus on data visualization. This project was awarded "Best online annual report" at the <a href="https://www.digitalimpactawards.com/europe/past-winners/2022/" target="_blank">Digital Impact Awards</a>.</li>
 		
 		<li>Lead the creation of open data portals for international institutions such as United Nations University, OECD and Municipality of Barcelona. These portals enable users from across the world to access and visualize crucial social and economic indicators for a wide variety of applications.</li>
 
@@ -44,7 +44,7 @@
 	</ul>
 	<br />
 
-	I have a strong interest in projects that use technology for social good. During my career I was involved in inspiring initiatives such as <a href="https://www.data4chan.ge/">Data4Change</a> and European Hub for Civic Engagement. Among other projects, I contributed to the creation of <a href="https://www.data4chan.ge/our-work/al-bedaya">"Al Bedaya"</a>, a digital toolkit that supports orphan children in Jordan facing social stigma and discrimination.
+	I have a strong interest in projects that use technology for social good. During my career I was involved in inspiring initiatives such as <a href="https://www.data4chan.ge/" target="_blank">Data4Change</a> and European Hub for Civic Engagement. Among other projects, I contributed to the creation of <a href="https://www.data4chan.ge/our-work/al-bedaya" target="_blank">"Al Bedaya"</a>, a digital toolkit that supports orphan children in Jordan facing social stigma and discrimination.
 
 	<br/><br />
 
@@ -54,10 +54,10 @@
 
 <section id="research">
 	<div class="section-title">Research</div>
-	I spent several formative years working as a researcher at the <a href="http://www.micc.unifi.it/">Media Integration and Communication Center (MICC)</a>at the University of Florence and I subsequently transferred to the <a href="https://www.upf.edu/web/gti">Interactive Technologies Group</a> at the Universitat Pompeu Fabra in Barcelona.
+	I spent several formative years working as a researcher at the <a href="http://www.micc.unifi.it/" target="_blank">Media Integration and Communication Center (MICC)</a> at the University of Florence and I subsequently transferred to the <a href="https://www.upf.edu/web/gti" target="_blank">Interactive Technologies Group</a> at the Universitat Pompeu Fabra in Barcelona.
 	During this time I was involved in several R&D projects experimenting with innovative human-computer interaction and multimedia analysis techniques in the field of cultural heritage, medicine, and smart cities.
   <br><br>
-  Here are some of the research challanges I took on:
+  Here are some of the research challenges I took on:
 
   <ul>
 		<li>How can Natural Interaction and Virtual Reality (VR) be used to improve training in emergency medicine?</li>
@@ -67,9 +67,9 @@
 
   </ul>
   
-  The work I have done with the research teams in Florence and in Barcelona has been published and presented in leading international conferences organized by ACM and IEEE, academic journals and an <a href="https://link.springer.com/book/10.1007/978-3-319-61036-8">edited book</a> published by Springer.
+  The work I have done has been published and presented in leading international conferences organized by ACM and IEEE, academic journals and an <a href="https://link.springer.com/book/10.1007/978-3-319-61036-8" target="_blank">edited book</a> published by Springer.
   <br><br> 
-  A full list of my publications can be found on my <a href="https://scholar.google.it/citations?user=rt1N1i4AAAAJ&hl=en">Google Scholar profile</a>.
+  A full list of my publications can be found on my <a href="https://scholar.google.it/citations?user=rt1N1i4AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 </section>
 
 
@@ -80,7 +80,7 @@
 		<li>
 			<strong>IED - Barcelona</strong> - Coordinator of
 			<a href="https://iedbarcelona.es/en/cursos-info/postgrado-en-data-driven-thinking/"
-				>Postgraduate Course in Data Driven Thinking</a
+			target="_blank">Postgraduate Course in Data Driven Thinking</a
 			> (2022)
 		</li>
 		<li>
@@ -109,8 +109,8 @@
 
 <section id="contact">
 	<div class="section-title">Contact</div>
-	<a href="https://www.linkedin.com/in/pezzatini/">LinkedIn</a> / 
-	<a href="https://twitter.com/pezzabros">Twitter</a> / 
+	<a href="https://www.linkedin.com/in/pezzatini/" target="_blank">LinkedIn</a> / 
+	<a href="https://twitter.com/pezzabros" target="_blank">Twitter</a> / 
 	<a href="mailto:d.pezzatini@gmail.com">Mail</a>
 </section>
 
