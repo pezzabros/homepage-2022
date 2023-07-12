@@ -35,11 +35,13 @@
 	<br/><br/>
 	In the past few years, I:
 	<ul>
-		<li>Assisted Banco Santander in the creation of a new way to communicate with data. As part of this process, we developed the Santander Annual Review 2021, a digital storytelling project with a strong focus on data visualization. This project was awarded "Best online annual report" at the <a href="https://www.digitalimpactawards.com/europe/past-winners/2022/" target="_blank">Digital Impact Awards</a>.</li>
+		<li>Assisted Banco Santander in the creation of a new way to communicate with data. As part of this process, we developed the Santander Annual Review in <a href="https://www.santanderannualreport.com/2021/" target="_blank">2021</a> and <a href="https://www.santanderannualreport.com/2022/" target="_blank">2022</a>, a digital storytelling solution with a strong focus on data visualization. The 2021 report was awarded "Best online annual report" at the <a href="https://www.digitalimpactawards.com/europe/past-winners/2022/" target="_blank">Digital Impact Awards</a>.</li>
 		
-		<li>Lead the creation of open data portals for international institutions such as United Nations University, OECD and Municipality of Barcelona. These portals enable users from across the world to access and visualize crucial social and economic indicators for a wide variety of applications.</li>
+		<li>Lead the creation of open data portals for international institutions such as <a href="https://www4.wider.unu.edu/" target="_blank">United Nations University</a>, <a href="https://goingdigital.oecd.org/datakitchen/" target="_blank">OECD</a> and Municipality of Barcelona. These portals enable users from across the world to access and visualize crucial social and economic indicators for a wide variety of applications.</li>
 
 		<li>Defined and prototyped innovative software for the digital design of apparel and footwear on account of a top global fashion brand.</li>
+
+		<li>Experimented new ways to interact and present data using modern artificial intelligence solutions.</li>
 
 	</ul>
 	<br />
@@ -55,7 +57,7 @@
 <section id="research">
 	<div class="section-title">Research</div>
 	I spent several formative years working as a researcher at the <a href="http://www.micc.unifi.it/" target="_blank">Media Integration and Communication Center (MICC)</a> at the University of Florence and I subsequently transferred to the <a href="https://www.upf.edu/web/gti" target="_blank">Interactive Technologies Group</a> at the Universitat Pompeu Fabra in Barcelona.
-	During this time I was involved in several R&D projects experimenting with innovative human-computer interaction and multimedia analysis techniques in the field of cultural heritage, medicine, and smart cities.
+	During this time I was involved in several R&D projects experimenting with innovative human-computer interaction and machine learning techniques in the field of cultural heritage, medicine, and smart cities.
   <br><br>
   Here are some of the research challenges I took on:
 
@@ -77,12 +79,12 @@
 	<div class="section-title">Teaching & Seminars</div>
 
 	<ul>
-		<li>
+		<!--<li>
 			<strong>IED - Barcelona</strong> - Coordinator of
 			<a href="https://iedbarcelona.es/en/cursos-info/postgrado-en-data-driven-thinking/"
 			target="_blank">Postgraduate Course in Data Driven Thinking</a
 			> (2022)
-		</li>
+		</li>-->
 		<li>
 			<strong>Elisava - Barcelona</strong> - Workshop
 			<i>"Designing the next interactive genome browser"</i> - ChromDesign Winter school. (2020)
