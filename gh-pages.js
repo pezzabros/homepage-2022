@@ -1,17 +1,16 @@
 import { publish } from 'gh-pages';
 
-publish(
- 'build', // path to public directory
- {
+publish('build', {
   branch: 'gh-pages',
   repo: 'https://github.com/pezzabros/homepage-2022.git',
   user: {
-   name: 'Daniele Pezzatini', // update to use your name
-   email: 'pezzabros@gmail.com' // Update to use your email
+    name: 'Daniele Pezzatini',
+    email: 'pezzabros@gmail.com'
   },
   dotfiles: true
-  },
-  () => {
-   console.log('Deploy Complete!');
-  }
-);
+}).then(() => {
+  console.log('Deploy Complete!');
+}).catch((err) => {
+  console.error('Deploy failed:', err);
+  process.exit(1);
+});
