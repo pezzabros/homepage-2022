@@ -1,77 +1,108 @@
 <div class="site">
-    <header>
-      <h1>Daniele Pezzatini</h1>
-      
-      <nav>
-        <a href="#work">WORK</a> / 
-        <a href="#research">Research</a> /
-        <a href="#teaching">Teaching</a> /
-        <a href="#contact">Contact</a>
-      </nav>
-    </header>
-    <div class="main">
-      <slot />
-    </div>
+	<nav>
+		<a class="nav-name" href="/">Daniele Pezzatini</a>
+		<ul class="nav-links">
+			<li><a href="#work">Work</a></li>
+			<li><a href="#collab">Collaborate</a></li>
+			<li><a href="#background">Background</a></li>
+			<li><a href="#contact">Contact</a></li>
+		</ul>
+	</nav>
+	<slot />
+	<footer>
+		<span>Daniele Pezzatini &middot; Milan, Italy</span>
+		<span>d.pezzatini@gmail.com</span>
+	</footer>
 </div>
 
 <style>
-  :global(body) {
-    background-color: #fff;
-    color: #333;
-    font-family: 'Lora', serif;
-    
-    margin: 0px;
-    padding: 2em;
-  }
-  .site {
-    margin: 1em auto;
-		max-width: 820px;
-  }
+	:global(:root) {
+		--black: #111111;
+		--off-white: #f5f3ef;
+		--mid: #888880;
+		--accent: #c8440a;
+		--border: #e0ddd8;
+		--max: 720px;
+	}
 
-  h1 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 1.7em;
-    letter-spacing: 0.03em;
-    /*color: #624d75*/
+	:global(*, *::before, *::after) {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+	}
 
-  }
+	:global(html) {
+		font-size: 17px;
+	}
 
-  header {
-    margin-bottom: 4em;
-    display: flex;
-    align-items: center;
-  }
-  nav{
-    margin-left: auto
-  }
+	:global(body) {
+		font-family: 'DM Sans', sans-serif;
+		background: var(--off-white);
+		color: var(--black);
+		line-height: 1.65;
+		font-weight: 300;
+	}
 
-  nav a {
-    text-decoration: none;
-    color: black;
-    font-family: 'Poppins';
-    font-weight: 300;
-    text-transform: uppercase;
-  }
+	.site {
+		max-width: var(--max);
+		margin: 0 auto;
+		padding: 0 2rem;
+	}
 
-  nav a:hover {
-    text-decoration: underline;
-  }
+	nav {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		padding: 2.8rem 0 2rem;
+		border-bottom: 1px solid var(--border);
+	}
 
+	.nav-name {
+		font-weight: 500;
+		font-size: 1rem;
+		letter-spacing: 0.01em;
+		color: var(--black);
+		text-decoration: none;
+	}
 
-  .main {
-    font-size: 1.1em;
-    line-height: 1.5em;
-    letter-spacing: 0.025em;
-  }
-  
-@media only screen and (max-width: 600px) {
-  header {
-    flex-direction: column;
-    align-items: flex-start;
-  }
+	.nav-links {
+		display: flex;
+		gap: 2rem;
+		list-style: none;
+	}
 
-  nav{
-    margin-left: 0px;
-  }
-}
+	.nav-links a {
+		font-size: 0.82rem;
+		letter-spacing: 0.06em;
+		text-transform: uppercase;
+		color: var(--mid);
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+
+	.nav-links a:hover {
+		color: var(--black);
+	}
+
+	footer {
+		padding: 2.5rem 0;
+		font-size: 0.78rem;
+		color: var(--mid);
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+
+	@media (max-width: 600px) {
+		:global(html) {
+			font-size: 16px;
+		}
+
+		nav {
+			flex-direction: column;
+			gap: 1.2rem;
+		}
+	}
 </style>
