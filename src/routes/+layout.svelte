@@ -102,7 +102,14 @@
 
 		nav {
 			flex-direction: column;
-			gap: 1.2rem;
+			align-items: flex-start;
+			gap: 1rem;
+			padding: 1.6rem 0 1.4rem;
+		}
+
+		.nav-links {
+			flex-wrap: wrap;
+			gap: 0.5rem 1.2rem;
 		}
 	}
 </style>

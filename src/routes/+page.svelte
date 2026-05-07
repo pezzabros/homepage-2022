@@ -23,7 +23,7 @@
 	</div>
 	<div class="hero-actions">
 		<a href="#collab" class="btn-primary">Work with me</a>
-		<a href="#work" class="btn-ghost">What i do</a>
+		<a href="#work" class="btn-ghost">What I do</a>
 	</div>
 	<figure class="hero-photo">
 		<img
@@ -624,9 +624,12 @@
 
 	/* ── Responsive ── */
 	@media (max-width: 600px) {
-		.hero-inner {
-			grid-template-columns: 1fr;
-			gap: 2rem;
+		section {
+			padding: 3rem 0;
+		}
+
+		.hero {
+			padding: 3rem 0;
 		}
 
 		.offer,
@@ -635,12 +638,16 @@
 			gap: 0.6rem;
 		}
 
+		.work-item {
+			gap: 0.3rem;
+		}
+
 		.offer-number {
 			margin-bottom: 0;
 		}
 
 		.cta-banner {
-			padding: 1.8rem;
+			padding: 1.6rem;
 		}
 	}
 </style>
